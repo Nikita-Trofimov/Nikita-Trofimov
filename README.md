@@ -5,5 +5,5 @@
 - 🔥 Работать с опытными разработчиками  
 - :star2: Изучать новое в web-разработке 
 
-e-mail Почта: nikita.igorevi4@yandex.ru
-globe_with_meridians Telegram: @nikitatula
+Почта: nikita.igorevi4@yandex.ru  
+Telegram: @nikitatula
